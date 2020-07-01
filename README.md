@@ -6,7 +6,7 @@ Implemente o back-end de uma rede social com o objetivo de promover a conexão e
 Os usuários podem criar posts de dois tipos ("evento" ou "normal), comentá-los e curti-los também. 
 
 
-## Importânte :
+## Importante :
 
 1. Analisar e pensar quais são os endpoints que necessitam do token de autenticação.
 2. Lembre-se de que o Backend deve ser muito conciso. Isso significa que você deve prever a maior parte dos erros que possam acontecer e já se precaver contra eles. 
