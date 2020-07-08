@@ -11,6 +11,13 @@ Os usuários podem criar posts de dois tipos ("evento" ou "normal), comentá-los
 1. Analisar e pensar quais são os endpoints que necessitam do token de autenticação.
 2. Lembre-se de que o Backend deve ser muito conciso. Isso significa que você deve prever a maior parte dos erros que possam acontecer e já se precaver contra eles. 
 
+## Endpoints criados:
+1. Cadastro
+2. Login
+3. Fazer amizade
+4. Desfazer amizade
+5. Criar post
+6. Ver o feed
 
 Status do Projeto: Concluido :heavy_check_mark:
 
