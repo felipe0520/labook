@@ -31,6 +31,24 @@ Status do Projeto: Concluido :heavy_check_mark:
 6. ts-node
 7. uuid
 
+
+## Requisitos
+
+O LaBook será uma rede social com o objetivo de promover a conexão e interação entre seus mais diversos usuários. Os usuários podem criar posts de dois tipos ("evento" ou "normal), comentá-los e curti-los também. O desenvolvedor do frontend ~~acha que~~ é bastante experiente; dessa forma, já preparou uma lista de todos os endpoints que serão necessários para o projeto:
+
+- 1. Cadastrar
+- 2. Logar
+- 3. Fazer amizade
+- 4. Desfazer Amizade
+- 5. Criar post
+- 6. Ver todo o Feed
+- 7. Ver apenas um tipo de post do Feed
+
+Por fim, ressaltam-se dois fatos:
+
+- Você deve analisar e pensar quais são os endpoints que necessitam do token de autenticação
+- Lembre-se de que o Backend deve ser muito conciso. Isso significa que você deve prever a maior parte dos erros que possam acontecer e já se precaver contra eles. (Não se preocupe muito com essa parte, mas, se der tempo, foque nisso!)
+
 ## Como rodar a aplicação 
 
 
