@@ -54,4 +54,12 @@ Entre em contato comigo
 
 ![](screenshot/login/login.gif)
 
+## Contribuidores
+
+[<img src="https://avatars1.githubusercontent.com/u/59848875?s=400&u=47f31197624ea195a858abc5eed72f6ddc8ba11f&v=" width=115 > <br> <sub> Danilo Mourelle </sub>](https://github.com/danilomourelle) |
+| :---: |  
+[<img src="https://avatars3.githubusercontent.com/u/59870721?s=400&u=cc2a34f55dec49904312b6201cbb8cc2062a7f0a&v=" width=115 > <br> <sub> Leonardo Crispim</sub>](https://github.com/leocrispim) |
+| :---: |  
+
+
 
